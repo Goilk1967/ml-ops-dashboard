@@ -1,0 +1,2 @@
+# Contributing to ml-ops-dashboard
+We welcome contributions! Please open an issue or submit a pull request.
